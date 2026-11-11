@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shrijijagranpartyofficial-mzn.github.io/shri-ji-jagran-party/sitemap.xml
